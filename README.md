@@ -5,5 +5,4 @@ You will find a depository named "MasterMind App", that contains the .exe of the
 
 You will also find a depository named "MasterMind" which include all the sources files writen for that project, including the headers files (.h) and the sources files (.cpp)
 
-![](Apercu.png)
-
+<img src="Apercu.png" align = "center">
